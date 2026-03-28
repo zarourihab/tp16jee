@@ -1,0 +1,76 @@
+2026-03-28 18:26:58 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Starting Tp8MonitoringApplicationTests using Java 17.0.18 with PID 3356 (started by PC in C:\Users\PC\Downloads\tp8-monitoring\tp8-monitoring)
+2026-03-28 18:26:58 [main] DEBUG m.e.m.Tp8MonitoringApplicationTests - Running with Spring Boot v3.5.13, Spring v6.2.17
+2026-03-28 18:26:58 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-28 18:27:00 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-03-28 18:27:01 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Started Tp8MonitoringApplicationTests in 3.648 seconds (process running for 5.703)
+2026-03-28 18:27:50 [main] INFO  m.e.m.Tp8MonitoringApplication - Starting Tp8MonitoringApplication using Java 25.0.2 with PID 5088 (C:\Users\PC\Downloads\tp8-monitoring\tp8-monitoring\target\classes started by PC in C:\Users\PC\Downloads\tp8-monitoring\tp8-monitoring)
+2026-03-28 18:27:50 [main] DEBUG m.e.m.Tp8MonitoringApplication - Running with Spring Boot v3.5.13, Spring v6.2.17
+2026-03-28 18:27:50 [main] INFO  m.e.m.Tp8MonitoringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-28 18:27:52 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8081 (http)
+2026-03-28 18:27:52 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-28 18:27:52 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.53]
+2026-03-28 18:27:52 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-28 18:27:52 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1413 ms
+2026-03-28 18:27:52 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 4 endpoints beneath base path '/actuator'
+2026-03-28 18:27:52 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2026-03-28 18:27:53 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-03-28 18:27:53 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8081 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8081 or configure this application to listen on another port.
+
+2026-03-28 18:29:28 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Starting Tp8MonitoringApplicationTests using Java 17.0.18 with PID 13460 (started by PC in C:\Users\PC\Downloads\tp8-monitoring\tp8-monitoring)
+2026-03-28 18:29:28 [main] DEBUG m.e.m.Tp8MonitoringApplicationTests - Running with Spring Boot v3.5.13, Spring v6.2.17
+2026-03-28 18:29:28 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-28 18:29:32 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-03-28 18:29:32 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Started Tp8MonitoringApplicationTests in 4.508 seconds (process running for 6.55)
+2026-03-28 18:30:30 [main] INFO  m.e.m.Tp8MonitoringApplication - Starting Tp8MonitoringApplication using Java 25.0.2 with PID 8624 (C:\Users\PC\Downloads\tp8-monitoring\tp8-monitoring\target\classes started by PC in C:\Users\PC\Downloads\tp8-monitoring\tp8-monitoring)
+2026-03-28 18:30:30 [main] DEBUG m.e.m.Tp8MonitoringApplication - Running with Spring Boot v3.5.13, Spring v6.2.17
+2026-03-28 18:30:30 [main] INFO  m.e.m.Tp8MonitoringApplication - No active profile set, falling back to 1 default profile: "default"
+2026-03-28 18:30:32 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8082 (http)
+2026-03-28 18:30:32 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2026-03-28 18:30:32 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.53]
+2026-03-28 18:30:32 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-03-28 18:30:32 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1959 ms
+2026-03-28 18:30:33 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 4 endpoints beneath base path '/actuator'
+2026-03-28 18:30:33 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8082 (http) with context path '/'
+2026-03-28 18:30:33 [main] INFO  m.e.m.Tp8MonitoringApplication - Started Tp8MonitoringApplication in 4.063 seconds (process running for 4.493)
+2026-03-28 18:31:13 [http-nio-8082-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-03-28 18:31:13 [http-nio-8082-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2026-03-28 18:31:13 [http-nio-8082-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2026-03-28 18:31:39 [http-nio-8082-exec-4] INFO  m.e.m.service.MonitoringService - Démarrage du traitement des données
+2026-03-28 18:31:39 [http-nio-8082-exec-4] INFO  m.e.m.service.MonitoringService - Traitement terminé avec succès
+2026-03-28 19:08:14 [http-nio-8082-exec-4] INFO  m.e.m.service.MonitoringService - Démarrage du traitement des données
+2026-03-28 19:08:14 [http-nio-8082-exec-4] INFO  m.e.m.service.MonitoringService - Traitement terminé avec succès
+2026-03-28 19:08:24 [http-nio-8082-exec-7] INFO  m.e.m.service.MonitoringService - Démarrage du traitement des données
+2026-03-28 19:08:24 [http-nio-8082-exec-7] INFO  m.e.m.service.MonitoringService - Traitement terminé avec succès
+2026-03-28 19:09:23 [http-nio-8082-exec-10] INFO  m.e.m.service.MonitoringService - Démarrage du traitement des données
+2026-03-28 19:09:23 [http-nio-8082-exec-10] INFO  m.e.m.service.MonitoringService - Traitement terminé avec succès
+2026-03-28 20:47:56 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-03-28 20:47:56 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2026-03-28 20:48:13 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Starting Tp8MonitoringApplicationTests using Java 25.0.2 with PID 24232 (started by PC in C:\Users\PC\Downloads\tp8-monitoring\tp8-monitoring)
+2026-03-28 20:48:13 [main] DEBUG m.e.m.Tp8MonitoringApplicationTests - Running with Spring Boot v3.5.13, Spring v6.2.17
+2026-03-28 20:48:13 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-28 20:48:16 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-03-28 20:48:17 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Started Tp8MonitoringApplicationTests in 4.294 seconds (process running for 5.697)
+2026-03-28 21:00:16 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Starting Tp8MonitoringApplicationTests using Java 17.0.18 with PID 22748 (started by PC in C:\Users\PC\Downloads\tp8-monitoring\tp8-monitoring)
+2026-03-28 21:00:16 [main] DEBUG m.e.m.Tp8MonitoringApplicationTests - Running with Spring Boot v3.5.13, Spring v6.2.17
+2026-03-28 21:00:16 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-28 21:00:21 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-03-28 21:00:22 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Started Tp8MonitoringApplicationTests in 6.563 seconds (process running for 8.858)
+2026-03-28 21:01:53 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Starting Tp8MonitoringApplicationTests using Java 25.0.2 with PID 13244 (started by PC in C:\Users\PC\Downloads\tp8-monitoring\tp8-monitoring)
+2026-03-28 21:01:53 [main] DEBUG m.e.m.Tp8MonitoringApplicationTests - Running with Spring Boot v3.5.13, Spring v6.2.17
+2026-03-28 21:01:53 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2026-03-28 21:01:57 [main] INFO  o.s.b.a.e.web.EndpointLinksResolver - Exposing 3 endpoints beneath base path '/actuator'
+2026-03-28 21:01:58 [main] INFO  m.e.m.Tp8MonitoringApplicationTests - Started Tp8MonitoringApplicationTests in 5.124 seconds (process running for 6.78)
